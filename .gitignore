@@ -22,6 +22,8 @@ CCR
 *.svg
 *.wav
 *.py
+*.ccj
+*.dex
 nanovg
 images
 backup
