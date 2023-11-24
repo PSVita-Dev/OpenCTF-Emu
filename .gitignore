@@ -23,6 +23,8 @@ CCR
 *.wav
 *.py
 nanovg
+images
+backup
 # Precompiled Headers
 *.gch
 *.pch
